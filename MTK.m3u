@@ -1,43 +1,43 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Spor", bein SPORTS HD
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
+--- Türkiye ---
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Spor", TRT SPOR HD
+#EXTINF:-1 tvg-id="TRTWORLD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TRT_World_Logo.svg" group-title="Türkiye",TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="TRTHABER.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TRT_Haber_logo.svg" group-title="Türkiye",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Spor", A SPOR HD
+--- Haber ---
 
+#EXTINF:-1 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/France24.png" group-title="Haber",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Haber", TRT HABER HD
+#EXTINF:-1 tvg-id="DW.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/DW_Logo_2012.svg" group-title="Haber",DW News
+https://dwamdstream103.akamaized.net/hls/live/2015525/dwstream103/index.m3u8
 
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Aljazeera_eng.svg" group-title="Haber",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Haber", A HABER HD
+--- Dünya ---
 
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg" group-title="Dünya",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ulusal", TRT 1 HD
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/CGTN.svg" group-title="Dünya",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
+--- Belgesel ---
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ulusal", SHOW TV HD
+#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Belgesel",NASA TV
+https://ntv1-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
+--- Spor ---
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ulusal", ATV HD
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/RedBull.svg" group-title="Spor",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+--- Ekonomi ---
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ulusal", STAR TV HD
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ulusal", NOW TV HD
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ulusal", KANAL D HD
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ulusal", KANAL 7 HD
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Ulusal", TV 8 HD
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Çocuk", TRT ÇOCUK HD
-
-
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Bloomberg_TV_Logo.svg" group-title="Ekonomi",Bloomberg TV
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
