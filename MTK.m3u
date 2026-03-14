@@ -1,57 +1,46 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz" tvg-logo="https://raw.githubusercontent.com/turkiptv/logos/main/"
 
 --- TRT ---
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/TRT_1_logo.svg" group-title="TRT",TRT 1
+#EXTINF:-1 tvg-id="trt1.tr" group-title="TRT",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/TRT_2_logo.svg" group-title="TRT",TRT 2
+#EXTINF:-1 tvg-id="trt2.tr" group-title="TRT",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TRT_Haber_logo.svg" group-title="TRT",TRT Haber
+#EXTINF:-1 tvg-id="trthaber.tr" group-title="TRT",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TRT_Spor_logo.svg" group-title="TRT",TRT Spor
+#EXTINF:-1 tvg-id="trtspor.tr" group-title="TRT",TRT Spor
 https://tv-trtspor.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TRT_World_Logo.svg" group-title="TRT",TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TRT_%C3%87ocuk_logo.svg" group-title="TRT",TRT Çocuk
+#EXTINF:-1 tvg-id="trtcocuk.tr" group-title="TRT",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TRT_Belgesel_logo.svg" group-title="TRT",TRT Belgesel
+#EXTINF:-1 tvg-id="trtbelgesel.tr" group-title="TRT",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/TRT_M%C3%BCzik_logo.svg" group-title="TRT",TRT Müzik
+#EXTINF:-1 tvg-id="trtmuzik.tr" group-title="TRT",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
 --- HABER ---
 
-#EXTINF:-1 tvg-id="APara.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/APara_logo.png" group-title="Haber",A Para
-https://ythls.onrender.com/channel/UCRWQ0G5VnR7g9a9v6Yv7Z3g.m3u8
-#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Bloomberg_TV_Logo.svg" group-title="Haber",Bloomberg HT
+#EXTINF:-1 tvg-id="bloomberght.tr" group-title="Haber",Bloomberg HT
 https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DW.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/DW_Logo_2012.svg" group-title="Haber",DW News
+#EXTINF:-1 tvg-id="dw.tr" group-title="Haber",DW News
 https://dwamdstream103.akamaized.net/hls/live/2015525/dwstream103/index.m3u8
-#EXTINF:-1 tvg-id="France24.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/France24.png" group-title="Haber",France 24
+#EXTINF:-1 tvg-id="france24.tr" group-title="Haber",France 24
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Aljazeera_eng.svg" group-title="Haber",Al Jazeera
+#EXTINF:-1 tvg-id="aljazeera.tr" group-title="Haber",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 --- BELGESEL ---
 
-#EXTINF:-1 tvg-id="NASATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Belgesel",NASA TV
+#EXTINF:-1 tvg-id="nasa.tr" group-title="Belgesel",NASA TV
 https://ntv1-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-#EXTINF:-1 tvg-id="NHKWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/NHK_World.svg" group-title="Belgesel",NHK World
+#EXTINF:-1 tvg-id="nhkworld.tr" group-title="Belgesel",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index.m3u8
 
---- SPOR / EĞLENCE ---
+--- SPOR ---
 
-#EXTINF:-1 tvg-id="RedBullTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/RedBull.svg" group-title="Spor",Red Bull TV
+#EXTINF:-1 tvg-id="redbulltv.tr" group-title="Spor",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 --- DÜNYA ---
 
-#EXTINF:-1 tvg-id="CGTN.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/CGTN.svg" group-title="Dünya",CGTN
+#EXTINF:-1 tvg-id="cgtn.tr" group-title="Dünya",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
---- YEREL TV (örnek) ---
-
-#EXTINF:-1 tvg-id="KanalB.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/7/75/Kanal_B_logo.png" group-title="Yerel",Kanal B
-https://ythls.onrender.com/channel/UCdY0vJ9mY0C1KpJ9Sg0g8Pg.m3u8
-#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5e/Ulusal_Kanal_logo.png" group-title="Yerel",Ulusal Kanal
-https://ythls.onrender.com/channel/UCU1uJ8C0L3Nqk2hV1m5L8aA.m3u8
